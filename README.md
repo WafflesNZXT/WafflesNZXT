@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wafi Syed
 
-I'm a front-end developer, well, learning web developer who's a highschool freshman. I really enjoy crafting interactive websites and writing clean, efficient code. I focus on building smooth user experiences using HTML, CSS, and JavaScript — with an eye for detail and a passion for functionality.
+I'm a front-end developer, well, learning web developer who's a highschool freshman. I really enjoy crafting interactive websites and writing clean, efficient code. I focus on building smooth user experiences using HTML, CSS, and JavaScript, although I'm still learning JavaScript and how to work with it in the right way. But I still have an eye for detail and a passion for functionality.
 
 ## 💻 What I Do
 - 🌐 Web Development: HTML, CSS, JavaScript
