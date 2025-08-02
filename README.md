@@ -27,3 +27,6 @@ Gmail: wafi.syed5@gmail.com,
 LinkedIn: Wafi Syed
 
 When you leave me a message, just let me know you got my info from my GitHub Profile 😉 
+
+## ✍ Hire Me
+Take a look around my repositories, like what you see? If yes, then feel free to contact me and I'll get started on your site right away!
