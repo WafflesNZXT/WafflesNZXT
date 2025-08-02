@@ -20,9 +20,10 @@ I'm a front-end developer, well, learning web developer who's a highschool fresh
 - [BASSL, a sports league website](https://github.com/WafflesNZXT/BASSL)
 
 ## 📫 Contact
-Let’s connect! Reach out via Discord, or even by Gmail! 
+Let’s connect! Reach out via Discord, by Gmail, or LinkedIn! 
 
 Discord Username: theoneandonlywaffles
 Gmail: wafi.syed5@gmail.com
+LinkedIn: Wafi Syed
 
 When you leave me a message, just let me know you got my info from my GitHub Profile 😉 
