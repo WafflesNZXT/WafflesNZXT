@@ -18,6 +18,8 @@ I'm a front-end developer, well, learning web developer who's a highschool fresh
 - [Responsive Portfolio Site](https://github.com/WafflesNZXT/WafiSyedPortfolio)
 - [Zen Habit, a website to help your conscious](https://github.com/WafflesNZXT/Zen-Habit)
 - [BASSL, a sports league website](https://github.com/WafflesNZXT/BASSL)
+- [Dixtera, a marketing company](https://wafflesnzxt.github.io/Dixtera---Digital-Marketing-AI)
+- [Sharede Vision, a marketing company](https://wafflesnzxt.github.io/SharedeVision/)
 
 ## 📫 Contact
 Let’s connect! Reach out via Discord, by Gmail, or LinkedIn! 
