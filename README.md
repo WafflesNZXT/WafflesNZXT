@@ -13,6 +13,9 @@ I'm a front-end developer, well, learning web developer who's a highschool fresh
 - HTML5 & CSS3 
 - Git & GitHub
 - Visual Studio Code
+- Replit & and Replit Agent
+- Base 44
+- Codegen
 
 ## 📌 Featured Projects
 - [Responsive Portfolio Site](https://github.com/WafflesNZXT/WafiSyedPortfolio)
