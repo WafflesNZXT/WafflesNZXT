@@ -18,7 +18,7 @@ I'm a front-end developer, well, learning web developer who's a highschool fresh
 - Codegen
 
 ## 📌 Featured Projects
-- [Responsive Portfolio Site](https://github.com/WafflesNZXT/WafiSyedPortfolio)
+- [My Portfolio](https://github.com/WafflesNZXT/WafiSyedPortfolio)
 - [Zen Habit, a website to help your conscious](https://github.com/WafflesNZXT/Zen-Habit)
 - [BASSL, a sports league website](https://github.com/WafflesNZXT/BASSL)
 - [Dixtera, a marketing company](https://wafflesnzxt.github.io/Dixtera---Digital-Marketing-AI)
