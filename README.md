@@ -23,6 +23,8 @@ I'm a front-end developer, well, learning web developer who's a highschool fresh
 - [BASSL, a sports league website](https://github.com/WafflesNZXT/BASSL)
 - [Dixtera, a marketing company](https://wafflesnzxt.github.io/Dixtera---Digital-Marketing-AI)
 - [Sharede Vision, a marketing company](https://wafflesnzxt.github.io/SharedeVision/)
+- [Haider Cricket, a sports themed online store](https://wafflesnzxt.github.io/HaiderCricket)
+- [Inobex, a professional website made for an online AI and IT Services Company](https://inobex.com)
 
 ## 📫 Contact
 Let’s connect! Reach out via Discord, by Gmail, or LinkedIn! 
