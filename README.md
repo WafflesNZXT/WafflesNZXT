@@ -28,7 +28,9 @@ I'm a front-end developer, well, learning web developer who's a highschool fresh
 Let’s connect! Reach out via Discord, by Gmail, or LinkedIn! 
 
 Discord Username: theoneandonlywaffles,
+
 Gmail: wafi.syed5@gmail.com,
+
 LinkedIn: Wafi Syed
 
 When you leave me a message, just let me know you got my info from my GitHub Profile 😉 
