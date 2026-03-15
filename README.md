@@ -9,13 +9,12 @@ I'm a front-end developer, well, learning web developer who's a highschool fresh
 - 🧪 Experimentation: Exploring new design patterns and interactive features
 
 ## 🔧 Technologies & Tools
-- JavaScript 
-- HTML5 & CSS3 
-- Git & GitHub
+- GitHub CoPilot 
+- Google Gemini 
+- Vercel - Next.js
 - Visual Studio Code
-- Replit & and Replit Agent
-- Base 44
-- Codegen
+- SupaBase
+- HCaptcha
 
 ## 📌 Featured Projects
 - [My Portfolio](https://github.com/WafflesNZXT/WafiSyedPortfolio)
